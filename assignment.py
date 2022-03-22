@@ -1,5 +1,5 @@
 import sys
-#This tests the algorithm component of the assignment,
+#This tests the algorithm component,
 #using the example in the text.
 
 #Test dataset
